@@ -1,6 +1,6 @@
 apiVersion: v2
-name: woocommerce
-description: WooCommerce store provisioning chart
+name: wordpress-e2e-setup
+description: Helm chart for automated end-to-end provisioning of WordPress WooCommerce stores on Kubernetes
 type: application
-version: 0.1.0
+version: 0.1.1
 appVersion: "1.0"
