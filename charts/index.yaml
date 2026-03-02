@@ -3,7 +3,7 @@ entries:
   woocommerce:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2026-03-01T16:18:01.2211448+05:30"
+    created: "2026-03-02T11:18:28.974383+05:30"
     description: WooCommerce store provisioning chart
     digest: 98e828dbeb8b45275a1c786cf86f418e2d941584242a0aac17ff0a6bf0af7105
     name: woocommerce
@@ -11,4 +11,4 @@ entries:
     urls:
     - woocommerce-setup.tgz
     version: 0.1.0
-generated: "2026-03-01T16:18:01.2211448+05:30"
+generated: "2026-03-02T11:18:28.9503774+05:30"
