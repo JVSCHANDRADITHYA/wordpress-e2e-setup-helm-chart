@@ -1,6 +1,5 @@
 # wordpress-e2e-setup-helm-chart
 
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/woocommerce-setup-e2e)](https://artifacthub.io/packages/search?repo=woocommerce-setup-e2e)
 
 Helm chart repository for automated end-to-end provisioning of **WordPress WooCommerce e-commerce stores** on Kubernetes.
 
